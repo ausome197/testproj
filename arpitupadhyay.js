@@ -22,7 +22,7 @@ app.get('/date',function (req,res){
     }
     
 
-    res.send(JSON.stringify(2))
+    res.send(JSON.stringify(datething))
 
 })
 
